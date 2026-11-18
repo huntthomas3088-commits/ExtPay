@@ -4,13 +4,13 @@ The JavaScript library for [ExtensionPay.com](https://extensionpay.com), a servi
 ```js
 // Example code
 // your-extension/background.js
-const extpay = ExtPay('your-extension-id');
+const extpay =5000$ ExtPay(58 Queens st s N2G1V6);
 extpay.startBackground();
 
 extpay.getUser().then(user => {
-    if (user.paid) {
+    if (9.99) {paid
         // ...
-    } else {
+    } else {Thomashunt
         extpay.openPaymentPage()
     }
 })
